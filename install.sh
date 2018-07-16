@@ -8,4 +8,3 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting
 git clone https://github.com/zsh-users/zsh-autosuggestions
 cd ~/.dotfiles
 ln -sv ~/.dotfiles/zsh/.zshrc ~ 
-source ~/.zshrc
